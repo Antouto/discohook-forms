@@ -1,2 +1,2 @@
 # discohook-forms
-The discohook code used in the forms dashboard
+The [discohook](https://github.com/discohook/discohook) code used in the forms dashboard.
